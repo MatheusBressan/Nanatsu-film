@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filme Demon Slayer</title>
+    <style>
+        body{
+         background-color: black;
+        }
+    </style>
+</head>
+<body>
+    </div>
+   <div class="Tela-de-Fundo">
+    <img src="demon-slayer-qxw4xfd4abzn.png" alt="Fundo" >
+    <div class="Titulo">
+        <p>Demon Slayer: Hashira Training <br>
+             Arc</p>
+    </div>
+    <div class="Cartaz">
+    <img src="gfltvumwoaakz_v__2m131x-675x1200.png" alt="Cartaz">
+    </div>
+    <div class="Anime">
+        <p>ANIME</p>
+        <div class="duração">
+            <p>DURAÇÃO</p>
+        </div>
+        <div class="classificação">
+            <p>CLASSIFICAÇÃO</p>
+        </div>
+    </div>
+    <div class="sinopse">
+        <h1>sinopse</h1>
+        <div class="Texto">
+        <p>Com a 4ª temporada de Demon Slayer chegando, aqui está o que esperar quando o show <br>
+            retornar com o Hashira Training Arc, que verá Tanjiro e seus aliados passando por um inferno <br>
+            físico e mental em preparação para um confronto final com o Rei dos Demônios. O filme –To <br>
+            the Hashira Training– contará com o episódio final do Swordsmith Village Arc, bem como o <br>
+            primeiro episódio de uma hora do Hashira Training Arc. Todos os episódios foram convertidos <br>
+            para 4K, assim como as músicas foram mixadas especialmente para os cinemas. Classificação <br>
+            indicativa Verificar.</p>
+        </div>
+    </div>
+    <Style>
+        .Tela-de-Fundo{
+            img{
+            width: 100%;
+            height: 350px;
+            position: relative;
+            }
+        }
+        .Cartaz{
+            img{
+                height: 600px;
+                width: 400px;
+                margin-left: 100px;
+                margin-top: -490px;
+            }
+        }
+        .Titulo{
+            position: relative;
+            bottom: 230px;
+            left: 575px;
+            padding: 0px;
+            font-size: 60px;
+            color: white;
+            
+        }
+        .sinopse{
+            color: orange;
+            margin-left: 100px;   
+            position: relative;
+            bottom: 250px;
+            font-size: 35 px;         
+        }
+        .Texto{
+            color: white;
+            font-size: 30px;
+        }
+        .Anime{
+            color: white;
+            position: relative;
+            left: 575px;
+            bottom: 300px;
+            font-size: 40px;
+        }
+        .duração{
+            position: relative;
+            bottom: -50px;
+        }
+        .classificação{
+            position: relative;
+            bottom: 174px;
+            left: 400px;
+        }
+    </Style>
+</body>
+</html>
